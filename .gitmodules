@@ -1,0 +1,3 @@
+[submodule "loose"]
+	path = loose
+	url = git://github.com/zacharydanger/loose-leaf.git
