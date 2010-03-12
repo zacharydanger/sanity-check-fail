@@ -1,6 +1,7 @@
 ---
 title: Boom, Jekyll'd
 layout: post
+foo: secret
 ---
 
 Converting my site over to Jekyll. :]
